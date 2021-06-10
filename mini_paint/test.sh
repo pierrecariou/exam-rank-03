@@ -1,5 +1,5 @@
-gcc mini.c -o nooriginal -Wall -Wextra -Werror -lm
-gcc mini.c -o original -Wall -Wextra -Werror -lm
+gcc mini_paint.c -o nooriginal -Wall -Wextra -Werror -lm
+gcc our_mini_paint.c -o original -Wall -Wextra -Werror -lm
 echo ""
 echo "TEST - <ex_1>"
 echo "NO original"
